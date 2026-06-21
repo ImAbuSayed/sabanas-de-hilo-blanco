@@ -1,6 +1,6 @@
 # License
 
-**Sábanas de hilo blanco**
+**Sábanas de hilo blanco, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 

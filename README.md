@@ -1,4 +1,4 @@
-# Sábanas de hilo blanco
+# Sábanas de hilo blanco, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Sábanas de hilo blanco |
+| **Title** | Sábanas de hilo blanco, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabanas-de-hilo-blanco/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Sábanas de hilo blanco](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-de-hilo-blanco/) |
+| **Get License** | [Official Music Licensing for Sábanas de hilo blanco, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-de-hilo-blanco/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mami, la noche entera te estuve buscando
+> En este club oscuro te veo bailando
+> Tú tienes fuego, el cuerpo me está llamando
+> Sábanas de hilo blanco te están esperando
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `1464c0b511d768be97c56908144e16490e668835adc014f5115118bec71dcc92` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
